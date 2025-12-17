@@ -9,7 +9,7 @@ pagination.pagerSize = 10
 color = "linen"   # linen / wheat / gray / light
 
 # home page profile
-avatar = "http://localhost:1313/profile.jpg"
+avatar = "https://yu-sui.github.io/profile.jpg"
 name = "Yu Sui"
 bio = "Software / Hardware Co-design · FPGA Systems · LLM Inference Infrastructure"
 
