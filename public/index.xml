@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yu Sui | Dev</title>
+    <title>Yu Sui | Engineering Notes</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Yu Sui | Dev</description>
-    <generator>Hugo -- 0.152.2</generator>
+    <description>Recent content on Yu Sui | Engineering Notes</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 Dec 2025 17:57:49 -0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
@@ -13,16 +13,14 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Tue, 16 Dec 2025 17:57:49 -0800</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;My name is Yu Sui&lt;/p&gt;</description>
+      <description>&lt;p&gt;Hi, I’m &lt;strong&gt;Yu Sui&lt;/strong&gt;, a software / hardware co-design engineer working on performance-critical systems.&lt;/p&gt;&#xA;&lt;p&gt;My professional background is rooted in FPGA-based system development for large-scale digital circuit emulation and prototyping. Over the years, my work has spanned multiple layers of the stack—from low-level software and runtime systems to RTL design and full FPGA platform bring-up.&lt;/p&gt;&#xA;&lt;p&gt;Early in my career, I worked extensively on &lt;strong&gt;Linux-based high-performance C++ systems&lt;/strong&gt;, focusing on runtime design, multi-threaded programming, and low-level performance optimization. This experience shaped how I reason about system behavior, resource utilization, and bottlenecks at the software level.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Hello</title>
-      <link>http://localhost:1313/posts/hello/</link>
-      <pubDate>Tue, 16 Dec 2025 17:56:54 -0800</pubDate>
-      <guid>http://localhost:1313/posts/hello/</guid>
-      <description>&lt;p&gt;Hello this is by first blog
-I&amp;rsquo;m a sw/hw codesign engineer with years of industrial experience
-haha&lt;/p&gt;</description>
+      <title>Systolic Array Deep Dive</title>
+      <link>http://localhost:1313/posts/systolic-array/</link>
+      <pubDate>Sat, 13 Dec 2025 17:56:54 -0800</pubDate>
+      <guid>http://localhost:1313/posts/systolic-array/</guid>
+      <description>&lt;p&gt;This is the first blog&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
