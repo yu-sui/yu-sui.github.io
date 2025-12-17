@@ -38,6 +38,7 @@ This site serves as a collection of technical notes and engineering reflections.
 
 Most posts are written as engineering notes or design reviews, with an emphasis on clarity, constraints, and reproducibility.
 
-### Contact
+### Links
+- Google Scholar: https://scholar.google.com/citations?user=Youm7ZMAAAAJ&hl=en
 - GitHub: https://github.com/yu-sui
 - Email: sui@umich.edu
